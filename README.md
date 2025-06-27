@@ -18,3 +18,4 @@ This ML project classifies news as real or fake using a Passive Aggressive Class
 
 ```bash
 streamlit run app.py
+
